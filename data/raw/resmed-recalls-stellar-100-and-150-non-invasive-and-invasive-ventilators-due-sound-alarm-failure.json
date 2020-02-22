@@ -1,13 +1,13 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "b3703bb2-8198-1833-1706-549aa43152b0",
+            "calaisRequestID": "84fbabec-1fb1-1aa8-1706-b4bcf5d152b0",
             "id": "http://id.opencalais.com/b8vqTa5259eghtg67XFmJQ",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/13.0.rc2/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/0c50b005-0710-3469-a027-efcaf2f101bf",
             "document": "<p>ResMed is recalling Stellar ventilators because the sound alarm may fail to work if:</p>",
             "docTitle": "",
-            "docDate": "2020-02-21 01:08:11.616"
+            "docDate": "2020-02-22 05:08:15.505"
         },
         "meta": {
             "contentType": "text/raw",
@@ -15,9 +15,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "13.0.310:310",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2020-02-21 01:08:11.459",
+            "submissionDate": "2020-02-22 05:08:15.325",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|qOwqx/otD6RV1hjSW5K1o7kC0TI=|Ll+09W+ZZSjk5zTGOCfwxTS8K5Zi7f7Yvl6IlyZ6T+IEciLQ7ODhSA==",
+            "signature": "digestalg-1|v5BolH8uoLUeYA3lzyELEtwmjiY=|i6yGeCk2VPdVb8/t40cHnucYplhAuGgfHQ462Bhu5F3mON1nBoUicA==",
             "language": "InputTextTooShort"
         }
     },
@@ -141,7 +141,7 @@
             "DIY-Categorization-news_discovery-TRCS-arti___ARTI-News:20181221144725:20181221144725",
             "DIY-Categorization-research-TRCS-target_price_increase_rsch___AATPIN-Research:20181019144530:20181019144530",
             "DIY-Categorization-forest_spirit-TRCS-policy_child_labor_pvm___M_261-News:20200114164324:20200114164324",
-            "Deals Index:202002210035:202002210035",
+            "Deals Index:202002220425:202002220425",
             "DIY-Categorization-esg-TRCS-intellectual_property___M_21S-News:20191119075828:20191119075828",
             "DIY-Categorization-fnr-TRCS-risk_exonerated___EXNRT-News:20180816152710:20180816152710",
             "DIY-Categorization-news_discovery-TRCS-trnspt___TRNSPT-News:20181109113853:20181109113853",
@@ -431,7 +431,7 @@
             "DIY-Categorization-news_discovery-TRCS-iaea___IAEA-News:20190205145903:20190205145903",
             "DIY-Categorization-news_discovery-TRCS-jersey___JE-News:20191125103337:20191125103337",
             "DIY-Categorization-news_discovery-TRCS-smed___SMED-News:20181116102853:20181116102853",
-            "People Index:202002201450:202002201450",
+            "People Index:202002220345:202002220345",
             "DIY-Categorization-news_discovery-TRCS-g20___G20-News:20190604131357:20190604131357",
             "DIY-Categorization-fnr-TRCS-risk_transportation_crime___TCRIM-News:20180717143922:20180717143922",
             "DIY-Categorization-news_discovery-TRCS-italy___IT-News:20191127092312:20191127092312",

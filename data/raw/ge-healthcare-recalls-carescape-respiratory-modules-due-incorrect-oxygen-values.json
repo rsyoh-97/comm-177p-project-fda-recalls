@@ -1,13 +1,13 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "473cc1a6-9e25-3251-7065-49b900265da8",
+            "calaisRequestID": "b6289ceb-bde1-c405-1706-b4c16ec4d8de",
             "id": "http://id.opencalais.com/xxuFOOGgj7sBmgUpNyLaBw",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/13.0.rc2/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/39073f0d-2fce-30cf-9795-4d7d6af5d308",
             "document": "<p>GE Healthcare is recalling the CARESCAPE Respiratory Modules and Airway Gas Option due to a manufacturing issue which may cause the devices to display incorrect oxygen values which could lead to high (hyperoxia) or low (hypoxia) blood oxygen levels in the patient.</p>",
             "docTitle": "",
-            "docDate": "2020-02-21 01:08:15.428"
+            "docDate": "2020-02-22 05:08:33.819"
         },
         "meta": {
             "contentType": "text/raw",
@@ -15,9 +15,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "13.0.310:310",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2020-02-21 01:08:15.232",
+            "submissionDate": "2020-02-22 05:08:33.644",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|SoaKcqxuNFRBSgTBLO9h8vBOVDc=|OxhfLk4UR4XTSWWICzXViY8o32Ru+5amtfJ3/8fSWskpkAc/q0F4Fg==",
+            "signature": "digestalg-1|kReWPDDhkPwc3OM5UwENcuuYnGE=|Rvu9o6ulQaSjdZc61925BhoI90WShp6UIgoxmvH8WlcgnGka2Qo80g==",
             "language": "English"
         }
     },
@@ -178,7 +178,7 @@
             "DIY-Categorization-news_discovery-TRCS-arti___ARTI-News:20181221144725:20181221144725",
             "DIY-Categorization-research-TRCS-target_price_increase_rsch___AATPIN-Research:20181019144530:20181019144530",
             "DIY-Categorization-forest_spirit-TRCS-policy_child_labor_pvm___M_261-News:20200114164324:20200114164324",
-            "Deals Index:202002210035:202002210035",
+            "Deals Index:202002220425:202002220425",
             "DIY-Categorization-esg-TRCS-intellectual_property___M_21S-News:20191119075828:20191119075828",
             "DIY-Categorization-fnr-TRCS-risk_exonerated___EXNRT-News:20180816152710:20180816152710",
             "DIY-Categorization-news_discovery-TRCS-trnspt___TRNSPT-News:20181109113853:20181109113853",
@@ -468,7 +468,7 @@
             "DIY-Categorization-news_discovery-TRCS-iaea___IAEA-News:20190205145903:20190205145903",
             "DIY-Categorization-news_discovery-TRCS-jersey___JE-News:20191125103337:20191125103337",
             "DIY-Categorization-news_discovery-TRCS-smed___SMED-News:20181116102853:20181116102853",
-            "People Index:202002201450:202002201450",
+            "People Index:202002220345:202002220345",
             "DIY-Categorization-news_discovery-TRCS-g20___G20-News:20190604131357:20190604131357",
             "DIY-Categorization-fnr-TRCS-risk_transportation_crime___TCRIM-News:20180717143922:20180717143922",
             "DIY-Categorization-news_discovery-TRCS-italy___IT-News:20191127092312:20191127092312",
@@ -561,7 +561,7 @@
             "DIY-Categorization-fnr-TRCS-dbulk___DBULK-News:20180403110302:20180403110302",
             "DIY-Categorization-fnr-TRCS-gdp-News:20180321130548:20180321130548",
             "DIY-Categorization-news_discovery-TRCS-tt_pritha___TT-News:20190808122703:20190808122703",
-            "OA Override:1175:1175",
+            "OA Override:1174:1174",
             "DIY-Categorization-fnr-TRCS-civ___CIV-News:20180607121523:20180607121523",
             "DIY-Categorization-news_discovery-TRCS-secur___SECUR-News:20190118134526:20190118134526",
             "DIY-Categorization-fnr-TRCS-tin1___U_2J-News:20180702121127:20180702121127",
@@ -650,7 +650,7 @@
             "DIY-Categorization-research-TRCS-target_price_change_rsch_avadhut___AATPCH-Research:20181019142510:20181019142510",
             "DIY-Categorization-news_discovery-TRCS-nato___NATO-News:20190111033335:20190111033335",
             "DIY-Categorization-news_discovery-TRCS-france_mnemonic_fixed___FR-News:20190528110824:20190528110824",
-            "DIY-Categorization-fnr-TRCS-mplt___MPLT-News:20180327111715:20180327111715",
+            "DIY-Categorization-fnr-TRCS-mplt___MPLT-News:20180327111716:20180327111716",
             "DIY-Categorization-news_discovery-TRCS-czech_republic___CZ-News:20191204134208:20191204134208",
             "DIY-Categorization-news_discovery-TRCS-sigind2___SIGIND-News:20200214131301:20200214131301",
             "DIY-Categorization-news_discovery-TRCS-chri___CHRI-News:20181127093618:20181127093618",
@@ -987,7 +987,7 @@
             "DIY-Categorization-news_discovery-TRCS-scrim___SCRIM-News:20181228143829:20181228143829",
             "DIY-Categorization-research-TRCS-results_miss_rsch_avadhut_1___RSMISS-Research:20190410100411:20190410100411",
             "DIY-Categorization-forest_spirit-TRCS-policy_supply_chain_health_safet___M_25X-News:20200124161503:20200124161503",
-            "BlackList:1175:1175",
+            "BlackList:1172:1172",
             "DIY-Categorization-news_discovery-TRCS-haiti___HT-News:20190916110926:20190916110926",
             "DIY-Categorization-news_discovery-TRCS-smrth_kairav___SMRTH-News:20191217104433:20191217104433",
             "DIY-Categorization-news_discovery-TRCS-mk__north_macedonia___MK-News:20191227120401:20191227120401",

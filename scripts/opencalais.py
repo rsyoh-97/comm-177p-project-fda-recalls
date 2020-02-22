@@ -10,10 +10,11 @@ CALAIS_URL = 'https://api-eit.refinitiv.com/permid/calais'
 # BELOW VARIABLE MUST BE SET IN ~/.bash_profile
 API_KEY = os.environ['OPENCALAIS_API_KEY']
 
-def main():
+def run_opencalais():
     html_path = os.path.join(data_dir, 'raw')
     dirs = os.listdir(html_path)
     for html_file in dirs:
+        # if html_file.endswith(".html"): 
         full_name = os.path.join(data_dir, 'raw', html_file)
         with open(full_name, 'rb') as source_file:
             html_file_read = source_file.read()
@@ -42,4 +43,4 @@ def main():
                         json.dump(response.json(), out, indent=4)
 
 if __name__ == '__main__':
-    main()
+    run_opencalais()

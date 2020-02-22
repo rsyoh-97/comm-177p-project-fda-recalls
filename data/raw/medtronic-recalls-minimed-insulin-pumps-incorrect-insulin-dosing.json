@@ -1,13 +1,13 @@
 {
     "doc": {
         "info": {
-            "calaisRequestID": "d9d24dd5-7e09-ffa7-1706-549af384d8de",
+            "calaisRequestID": "24406e04-fd3d-d678-1706-b4bd2cf4d8de",
             "id": "http://id.opencalais.com/SpK79OJ8GgQU05gpPxq7Pw",
             "ontology": "http://mdaas-virtual-onecalais.int.thomsonreuters.com/owlschema/13.0.rc2/onecalais.owl.allmetadata.xml",
             "docId": "http://d.opencalais.com/dochash-1/65ac89e3-4c5e-319a-869d-3fe3068de13d",
             "document": "<p>Medtronic is recalling the specified insulin pumps due to a missing or broken retainer ring which helps to lock the insulin cartridge into place in the pump's reservoir compartment. If the cartridge is not locked firmly into place, under or over delivery of insulin may occur, which could result in <a href=\"https://medlineplus.gov/hypoglycemia.html\">hypoglycemia</a> or <a href=\"https://medlineplus.gov/hyperglycemia.html\">hyperglycemia</a>. Severe hyperglycemia can result in a loss of consciousness, seizure, and death.</p>",
             "docTitle": "",
-            "docDate": "2020-02-21 01:08:12.889"
+            "docDate": "2020-02-22 05:08:16.373"
         },
         "meta": {
             "contentType": "text/raw",
@@ -15,9 +15,9 @@
             "selectiveTags": "company,industry,socialtags",
             "serverVersion": "13.0.310:310",
             "stagsVer": "defaultVersion",
-            "submissionDate": "2020-02-21 01:08:12.728",
+            "submissionDate": "2020-02-22 05:08:16.207",
             "submitterCode": "0ca6a864-5659-789d-5f32-f365f695e757",
-            "signature": "digestalg-1|P/oldV2Jr0mf6XC9pCkErNaBCOk=|ffuUw42qLQZd+Eis8mAJM3lLlhMTZ7ssBhyDe8loePJ+YLHGem+j9g==",
+            "signature": "digestalg-1|DnKWvbLnD5CJF98fqmWok3+cMl8=|Mdn8lNxdLUCk90fSAjgW3X6iVIiGzyWajIRuNS5sGJX3Qfwr/Yr/SA==",
             "language": "English"
         }
     },
@@ -160,7 +160,7 @@
             "DIY-Categorization-news_discovery-TRCS-arti___ARTI-News:20181221144725:20181221144725",
             "DIY-Categorization-research-TRCS-target_price_increase_rsch___AATPIN-Research:20181019144530:20181019144530",
             "DIY-Categorization-forest_spirit-TRCS-policy_child_labor_pvm___M_261-News:20200114164324:20200114164324",
-            "Deals Index:202002210035:202002210035",
+            "Deals Index:202002220425:202002220425",
             "DIY-Categorization-esg-TRCS-intellectual_property___M_21S-News:20191119075828:20191119075828",
             "DIY-Categorization-fnr-TRCS-risk_exonerated___EXNRT-News:20180816152710:20180816152710",
             "DIY-Categorization-news_discovery-TRCS-trnspt___TRNSPT-News:20181109113853:20181109113853",
@@ -450,7 +450,7 @@
             "DIY-Categorization-news_discovery-TRCS-iaea___IAEA-News:20190205145903:20190205145903",
             "DIY-Categorization-news_discovery-TRCS-jersey___JE-News:20191125103337:20191125103337",
             "DIY-Categorization-news_discovery-TRCS-smed___SMED-News:20181116102853:20181116102853",
-            "People Index:202002201450:202002201450",
+            "People Index:202002220345:202002220345",
             "DIY-Categorization-news_discovery-TRCS-g20___G20-News:20190604131357:20190604131357",
             "DIY-Categorization-fnr-TRCS-risk_transportation_crime___TCRIM-News:20180717143922:20180717143922",
             "DIY-Categorization-news_discovery-TRCS-italy___IT-News:20191127092312:20191127092312",
