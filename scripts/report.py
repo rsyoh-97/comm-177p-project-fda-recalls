@@ -18,11 +18,15 @@ def create_csv_social_tag():
                 full_name = os.path.join(data_dir, 'raw', json_file)
                 with open(full_name) as source_file:
                     read_json = json.load(source_file)     
-                    for _,category in read_json.items():
-                        for category_name in category:
-                            if category_name == 'name':
-                                social_tags = category[category_name]
-                                writer.writerow({'entity': category[category_name], 'source_file': full_name})
-
+                    for key, val in read_json.items():
+                        try:
+                            if val['_typeGroup'] == "socialTag":
+                                writer.writerow({
+                                    'entity': val["name"],
+                                    'source_file': full_name
+                                })    
+                        except KeyError:
+                            continue
+                       
 if __name__ == '__main__':
     create_csv_social_tag()
